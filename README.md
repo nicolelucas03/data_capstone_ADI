@@ -1,6 +1,7 @@
 # Political Discussion Networks: A Longitudinal Analysis (2010-2014)
 **Author**: Nicole Lucas 
 **Email**: nicoleclucas003@gmail.com
+
 How have Americans' political discussion networks changed over the last 15 years, and do algorithmic personalization and perceived social identity threat mediate the relationship between social media and network homogenization? 
 
 ## Overview
