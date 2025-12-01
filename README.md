@@ -1,4 +1,4 @@
-# Political Discussion Networks: A Longitudinal Analysis (2010-2014)
+# Political Discussion Networks: A Longitudinal Analysis (2010-2025)
 **Author**: Nicole Lucas 
 
 **Email**: nicoleclucas003@gmail.com
