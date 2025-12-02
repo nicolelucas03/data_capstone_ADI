@@ -15,7 +15,6 @@ This project examines the evolution of political disuccion networks in the Unite
 4. Provide empirical evidence for theories of digital echo chambers and filter bubbles 
 
 ## Tech Stack
-#### Core Technologies
 - **Python**: Primary analysis language
 - **pandas/polars**: Data manipulation
 - **scikit-learn**: Machine learning utilities
