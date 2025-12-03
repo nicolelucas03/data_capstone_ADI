@@ -1,10 +1,6 @@
 # Trust as a Mediator: Community Context and Political Tolerance in America
 A data science project examining whether generalized social trust mediates the relationship between urban-rural residence and political tolerance using General Social Survey (GSS) data.
 
-**Author**: Nicole Lucas 
-
-**Email**: nicoleclucas003@gmail.com
-
 Does generalized social trust mediate the relationship between urban-rural residence and political tolerance among American adults?
 
 ## Overview
@@ -22,3 +18,9 @@ Political tolerance—the willingness to extend civil liberties to ideologically
 - **scikit-learn**: Machine learning utilities
 - **matplotlib/seaborn/plotly**: Visaulization
 - **Jupyter Notebook**: Interactive analysis
+
+## Author 
+Nicole Lucas 
+- GitHub: @nicolelucas03
+- LinkedIn: nicolecindylucas
+- Email: nicoleclucas003@gmail.com
