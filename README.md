@@ -1,4 +1,9 @@
 # Trust as a Mediator: Community Context and Political Tolerance in America
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/trust-tolerance-mediation/graphs/commit-activity)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/try)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/yourusername/trust-tolerance-mediation/issues)
+
 A data science project examining whether generalized social trust mediates the relationship between urban-rural residence and political tolerance using General Social Survey (GSS) data.
 
 ## Research Question
