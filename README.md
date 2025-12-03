@@ -1,6 +1,7 @@
 # Trust as a Mediator: Community Context and Political Tolerance in America
 A data science project examining whether generalized social trust mediates the relationship between urban-rural residence and political tolerance using General Social Survey (GSS) data.
 
+## Research Question
 Does generalized social trust mediate the relationship between urban-rural residence and political tolerance among American adults?
 
 ## Overview
