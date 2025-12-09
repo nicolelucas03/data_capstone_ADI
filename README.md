@@ -25,6 +25,8 @@ Political tolerance—the willingness to extend civil liberties to ideologically
 - **matplotlib/seaborn/plotly**: Visaulization
 - **Jupyter Notebook**: Interactive analysis
 
+## Project Presentation
+Project update/overview is outlined in my presentation [here]().
 ## Author 
 Nicole Lucas 
 - GitHub: @nicolelucas03
