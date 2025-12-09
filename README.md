@@ -26,7 +26,7 @@ Political tolerance—the willingness to extend civil liberties to ideologically
 - **Jupyter Notebook**: Interactive analysis
 
 ## Project Presentation
-Project update/overview is outlined in my presentation [here](https://docs.google.com/presentation/d/1PPYj30ww45KdojP0tHd0Qj97XEgohg_-_6tdUj_Ztbw/edit?slide=id.g3917d102f00_0_583#slide=id.g3917d102f00_0_583).
+Project update/overview is outlined in my presentation [here]([https://docs.google.com/presentation/d/1PPYj30ww45KdojP0tHd0Qj97XEgohg_-_6tdUj_Ztbw/edit?slide=id.g3917d102f00_0_583#slide=id.g3917d102f00_0_583](https://docs.google.com/presentation/d/1PPYj30ww45KdojP0tHd0Qj97XEgohg_-_6tdUj_Ztbw/edit?usp=sharing)).
 ## Author 
 Nicole Lucas 
 - GitHub: @nicolelucas03
